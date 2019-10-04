@@ -1,0 +1,1 @@
+value_dict = {'SECRET_KEY' :'hmmanagement'}
